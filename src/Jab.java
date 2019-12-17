@@ -8,6 +8,8 @@ public class Jab {
 		x=10;
 		y=20;
 		int c= x+y;
+		
+		System.out.println("adding of two numbers" +c);
 	}
 
 }
